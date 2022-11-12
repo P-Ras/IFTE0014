@@ -1,6 +1,6 @@
-# ITFT0114
+# IFTE0014
 
-Jupyter notebook for IFT0114 Foundations of Financial Technology seminar.
+Jupyter notebook for IFTE0014 Foundations of Financial Technology seminar.
 
 Week 7: ESG Portfolio Selection
 
